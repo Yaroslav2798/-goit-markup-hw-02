@@ -17,7 +17,7 @@ body{
     font-style: normal;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.03 ;
+    letter-spacing: 0.03em;
     text-transform: uppercase ;
 }
 .logo-web{
@@ -27,7 +27,7 @@ body{
     font-weight: 700;
     text-decoration: none;
     line-height: 1.17;
-    letter-spacing: 0.03;
+    letter-spacing: 0.03em;
     text-transform: uppercase ;
 }
  .page-nav .nav {
@@ -39,12 +39,13 @@ body{
     font-style: normal;
     line-height: 24px;
     font-weight: 500 ;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
 }
 .page-nav .nav:hover ,
 .page-nav .nav:focus{
     color: #404bbf; 
 }
+
 
 .address .address-list{
     font-family: "Roboto",
@@ -106,16 +107,16 @@ background-color: #2E2F42;
 }
 
  .advantages-list .advantages {
-    color:#2E2F42;
+    color:#2e2f42; 
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
  } 
  .advantages-list .advantages-text {
     line-height: 1.5;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
  }
  
 
@@ -142,7 +143,7 @@ background-color: #2E2F42;
     text-decoration: none;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.03;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     }
  .footer .logo-footer {
@@ -152,15 +153,15 @@ background-color: #2E2F42;
     text-decoration: none;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.03;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
- }
+ } 
  .footer-text {
 color: #F4F4FD ;
-font-family: Roboto;
+font-family: "Roboto",
+    sans-serif;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
-letter-spacing: 0.32px;
-
- }
+letter-spacing:0.02em;
+}
