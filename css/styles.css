@@ -82,7 +82,7 @@ background-color: #2E2F42;
 }
 .section-hero .button {
     background-color: #4D5AE5;
-    font-family: "Raleway", sans-serif;
+    font-family: "Roboto", sans-serif;
     color:#FFF;
     font-weight: 500;
     line-height: 1.5;
@@ -108,7 +108,11 @@ background-color: #2E2F42;
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }
+    .advantages-list-team {
+    background-color: #FFFFFF;
+    }
 
+   
  .advantages-list .advantages {
     color:#2e2f42; 
     font-size: 20px;
@@ -116,12 +120,11 @@ background-color: #2E2F42;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    background-color: #FFFFFF
+   
  } 
  .advantages-list .advantages-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    background-color: #FFFFFF
 }
 
  
