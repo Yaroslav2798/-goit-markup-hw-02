@@ -2,13 +2,13 @@ body{
     font-family: "Roboto",sans-serif;
     color: #434455;
     font-size: 16px;
-    background-color: #FFF;
+    background-color: #ffffff;
 }
  ul{
     list-style-type: none;
      
 
-
+/* HEADER ШАПКА */
 }
 .logo-studio{
     color:#2E2F42;
@@ -64,7 +64,13 @@ body{
 .address .address-list:focus {
     color: #404bbf;
 }
+  
 
+
+/* MAIN */ 
+
+
+/*SECTION 1 */
 .section-hero {
 background-color: #2E2F42;
 }
@@ -98,7 +104,9 @@ background-color: #2E2F42;
     .section-hero .button:focus {
         background-color:#404BBF ;
     }
+   
 
+    /* SECTION 2 */
 .title {
     color: #2E2F42;
     font-size: 36px;
@@ -130,13 +138,18 @@ background-color: #2E2F42;
  
 
 
-
+/* SECTION 3 */
 
  .team {
     background-color:#F4F4FD;
  }
 
 
+
+
+
+
+ /* FOOTER */ 
  .footer {
     background-color: #2E2F42;
     text-decoration: none;
@@ -171,3 +184,4 @@ font-weight: 400;
 line-height: 24px;
 letter-spacing:0.02em;
 }
+
